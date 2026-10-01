@@ -43,7 +43,7 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### <span style="color:#58A6FF;">DevOps & Tools</span>
+### <span style="color:#008F7A;">DevOps & Tools</span>
 
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -52,7 +52,7 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### <span style="color:#58A6FF;">Development & Databases</span>
+### <span style="color:#5B2CBB;">Development & Databases</span>
 
 <p>
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>

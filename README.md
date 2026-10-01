@@ -168,7 +168,7 @@ A cloud monitoring project designed to monitor **EC2 CPU utilization** and send 
 
 ---
 
-## <span style="color:#58A6FF;">Internship Experience</span>
+## <span style="color:#58A6FF;">Experience</span>
 
 ### <span style="color:#FF9900;">Cloud Intern — First Quad Tech Solutions</span>
 

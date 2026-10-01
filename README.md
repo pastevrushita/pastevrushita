@@ -57,10 +57,10 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <b>CloudWatch</b>
 </td>
 
-<td align="center" width="80">
+
 <img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Application-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="40" height="40"><br>
 <b>SNS</b>
-</td>
+
 
 </tr>
 </table>

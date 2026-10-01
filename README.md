@@ -148,7 +148,7 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 
 ## <span style="color:#58A6FF;">Projects</span>
 
-### <span style="color:#FF9900;">CloudDeploy — Cloud Deployment on AWS</span>
+### <span style="color:#FF9900;">CloudDeploy </span>
 
 **AWS EC2 • Docker • Linux • Python • GitHub**
 
@@ -158,7 +158,7 @@ Deployed a Python application on **AWS EC2** using Docker and Linux. Configured 
 
 ---
 
-### <span style="color:#FF9900;">CloudMonitor — AWS Cloud Monitoring</span>
+### <span style="color:#FF9900;">CloudMonitor </span>
 
 **AWS EC2 • CloudWatch • SNS • Python • Boto3 • Docker**
 

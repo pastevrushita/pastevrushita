@@ -194,7 +194,7 @@ Worked with **Java, Firebase, REST APIs, authentication, and application data ma
 
 **CGPA:** 7.26
 
-### <span style="color:#58A6FF;">Vidyavardhini Bhausaheb Vartak Polytechnic</span>
+### <span style="color:#58A6FF;">Vidyavardhini's Bhausaheb Vartak Polytechnic</span>
 
 **Diploma in Computer Engineering**
 

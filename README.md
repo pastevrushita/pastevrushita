@@ -24,41 +24,131 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 
 ### <span style="color:#FF9900;">Cloud & Infrastructure</span>
 
-<p>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonsns&logoColor=white"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="75" height="75"><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="75" height="75"><br>
+<b>EC2</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-S3_48.svg" width="75" height="75"><br>
+<b>S3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="75" height="75"><br>
+<b>IAM</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="75" height="75"><br>
+<b>VPC</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="75" height="75"><br>
+<b>CloudWatch</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Application-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="75" height="75"><br>
+<b>SNS</b>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ### <span style="color:#58A6FF;">Programming & Automation</span>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Boto3-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="75" height="75"><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="75" height="75"><br>
+<b>Boto3</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="75" height="75"><br>
+<b>Java</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="75" height="75"><br>
+<b>SQL</b>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ### <span style="color:#008F7A;">DevOps & Tools</span>
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="75" height="75"><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="75" height="75"><br>
+<b>Linux</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="75" height="75"><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="75" height="75"><br>
+<b>GitHub</b>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ### <span style="color:#5B2CBB;">Development & Databases</span>
 
-<p>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<table>
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="75" height="75"><br>
+<b>REST API</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=firebase&theme=light" width="75" height="75"><br>
+<b>Firebase</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="75" height="75"><br>
+<b>MySQL</b>
+</td>
+
+</tr>
+</table>
 
 ---
 

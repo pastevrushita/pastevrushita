@@ -27,38 +27,38 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40"><br>
 <b>AWS</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Compute/48/Arch_Amazon-EC2_48.svg" width="40" height="40"><br>
 <b>EC2</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-S3_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Storage/48/Arch_Amazon-Simple-Storage-Service_48.svg" width="40" height="40"><br>
 <b>S3</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Security-Identity-Compliance/48/Arch_AWS-Identity-and-Access-Management_48.svg" width="40" height=40"><br>
 <b>IAM</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Networking-Content-Delivery/48/Arch_Amazon-Virtual-Private-Cloud_48.svg" width="40" height="40"><br>
 <b>VPC</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Management-Governance/48/Arch_Amazon-CloudWatch_48.svg" width="40" height="40"><br>
 <b>CloudWatch</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Application-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://raw.githubusercontent.com/icacho-dev/aws-architecture-icons/main/Architecture-Service-Icons_02072025/Arch_Application-Integration/48/Arch_Amazon-Simple-Notification-Service_48.svg" width="40" height="40"><br>
 <b>SNS</b>
 </td>
 
@@ -72,23 +72,23 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="40" height="40"><br>
 <b>Python</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=aws&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="40" height="40"><br>
 <b>Boto3</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=java&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="40" height="40"><br>
 <b>Java</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40" height="40"><br>
 <b>SQL</b>
 </td>
 
@@ -102,23 +102,23 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=docker&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="40" height="40"><br>
 <b>Docker</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=linux&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=linux&theme=light" width="40" height="40"><br>
 <b>Linux</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="40" height="40"><br>
 <b>Git</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=github&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="40" height="40"><br>
 <b>GitHub</b>
 </td>
 
@@ -132,18 +132,18 @@ Computer Engineering graduate focused on building practical skills in **AWS Clou
 <table>
 <tr>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="40" height="40"><br>
 <b>REST API</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=firebase&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=firebase&theme=light" width="40" height="40"><br>
 <b>Firebase</b>
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="75" height="75"><br>
+<td align="center" width="80">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="40" height="40"><br>
 <b>MySQL</b>
 </td>
 
